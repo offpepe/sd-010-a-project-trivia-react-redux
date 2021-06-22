@@ -24,6 +24,14 @@ Este projeto foi feito com o intuito de utilizar conhecimentos adquiridos sobre 
 
 ## Ferramentas
 
+<div align="center">
+  <img  width="50"  height="50"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png">
+  <img  width="50"  height="50"   src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+  <img  width="50"  height="50"   src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
+</div>
+<br/>
+<br/>
+
 Para o desenvolvimento deste projeto foi utilizada a linguagem **JavaScript** com as frameworks **ReactJS**, **Redux** e para estilização **Bulma**. 
 
 No Ecossistema **React** foram utilizados:
