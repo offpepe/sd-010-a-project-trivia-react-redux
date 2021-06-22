@@ -18,7 +18,7 @@ Projeto desenvolvido em grupo durante a formação de programadores do curso da 
 - Mateus Alencar Alves | *[Github](https://github.com/mateus2a)* | *[Linkedin](https://www.linkedin.com/in/mateus-alencar/)*
 - Alan Albuquerque F. Lopes | *[Github](https://github.com/offpepe)* | [*Linkedin*](https://www.linkedin.com/in/alan-albuquerque-f-lopes-aa404b206/)
 
-## Propósito:
+## Propósito
 
 Este projeto foi feito com o intuito de utilizar conhecimentos adquiridos sobre React Components, React Route, Redux, Redux Thunk, Funções Assíncronas, JavaScript ES6/ES8 .
 
