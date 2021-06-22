@@ -41,5 +41,10 @@ e para estilização utilizamos a CDN com RTL da framework Bulma.
 ### Testes e Avaliação:
 O desenvolvimento foi feito direcionado aos testes já escritos pela **Trybe** utilizando a framework End2End **Cypress**.
 
-
+---
+<div align="center">
+ 
+  # *[Link da Aplicação](https://shipit-trivia.netlify.app/)*
+ 
+</div>
 
